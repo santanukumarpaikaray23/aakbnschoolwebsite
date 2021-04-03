@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #6ab446;
+}
+.navbar{
+    background: #6ab446;
+}
+.nav-link, .navbar-brand{
+    color:#fff;
+}
+.nav-link{
+    margin-right: 1em !important;
+}
+.nav-link:hover{
+    color:#000;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+ .header{
+    background-image: url("assets/images/500_F_189991259_6ZrR7CTUtMbvng90m219BkQI1PumD719.jpg");
+    background-image:cover;
+    background-position: center;
+    position: relative;
+}  
+/* .description{
+    left:50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%,-55%);
+    text-align: center;
+}
+.description h1{
+    color:#6ab446;
+}
+.description p{
+    color:#fff;
+    font-size: 1.3rem;
+    line-height: 1.5;
+
+}
+.description button{
+    border:1px solid #6ab446;
+} */
