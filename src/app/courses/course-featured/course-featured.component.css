@@ -1,0 +1,15 @@
+.blog-box{
+    border: thin #C0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    margin-top: 3em;
+
+} 
+p{
+    background-color: #222;
+    color: #FFF;
+    font:italic smaller sans-serif;
+    padding: 4px;
+    text-align: center;
+}
