@@ -1,45 +1,36 @@
 body{
     padding: 0;
     margin: 0;
-    background: #6ab446;
+    background: #f2f6e9;
 }
 .navbar{
-    background: #6ab446;
+    background: #f2f6e9;
 }
 .nav-link, .navbar-brand{
-    color:#fff;
+   color:#000;
+   
 }
 .nav-link{
-    margin-right: 1em !important;
+    margin-right: 1em im !important;
 }
 .nav-link:hover{
-    color:#000;
+    color: #000;
 }
 .navbar-collapse{
     justify-content: flex-end;
 }
- .header{
+img{
+    width: 6em;
+    height: 6em;
+}
+.button{
+    color:#000;
+}
+.navbar-toggler-icon{
+    background-color:#000;
+}
+/* .header{
     background-image: url("assets/images/500_F_189991259_6ZrR7CTUtMbvng90m219BkQI1PumD719.jpg");
-    background-image:cover;
+    /* background-size: cover;
     background-position: center;
-    position: relative;
-}  
-/* .description{
-    left:50%;
-    position: absolute;
-    top: 45%;
-    transform: translate(-50%,-55%);
-    text-align: center;
-}
-.description h1{
-    color:#6ab446;
-}
-.description p{
-    color:#fff;
-    font-size: 1.3rem;
-    line-height: 1.5;
-
-}
-.description button{
-    border:1px solid #6ab446;
-} */
+    position: relative; */ 
