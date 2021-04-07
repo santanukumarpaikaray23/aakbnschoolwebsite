@@ -1,0 +1,15 @@
+ img{
+   width: 35em;
+   height: 30em;
+   border: thin #c0c0c0 solid;
+   padding: 8px;
+   
+   
+} 
+p{
+    background-color: hotpink;
+}
+.two{
+    margin-left: 35em;
+    margin-top: -32em;
+}

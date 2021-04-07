@@ -4,6 +4,7 @@ import {CoursesModule} from './courses/courses.module';
 import {StaticpagesModule} from './staticpages/staticpages.module';
 import {AdminModule} from './admin/admin.module';
 
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BannerComponent } from './banner/banner.component';
@@ -16,6 +17,7 @@ import { AuthModule } from './auth/auth.module';
 @NgModule({
   declarations: [
     AppComponent,
+   
     BannerComponent,
     HeaderComponent,
     FooterComponent,
