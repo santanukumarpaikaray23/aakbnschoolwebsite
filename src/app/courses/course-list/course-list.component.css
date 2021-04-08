@@ -1,0 +1,9 @@
+h1{
+    color:blue;
+    margin-right: 20em;
+}
+.blog-box{
+    border: thin #C0C0C0 solid;
+    padding: 5px;
+    max-width: 180em;
+}

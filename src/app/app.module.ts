@@ -13,6 +13,8 @@ import { FooterComponent } from './footer/footer.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { from } from 'rxjs';
 import { AuthModule } from './auth/auth.module';
+import {EmployeeserviceService} from './auth/employeeservice.service';
+import {HttpClientModule,HttpClient} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -29,9 +31,10 @@ import { AuthModule } from './auth/auth.module';
     CoursesModule,
     StaticpagesModule,
     AuthModule,
-    AdminModule
+    AdminModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [EmployeeserviceService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
