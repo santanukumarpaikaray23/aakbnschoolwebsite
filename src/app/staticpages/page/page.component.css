@@ -1,5 +1,5 @@
  img{
-   width: 35em;
+   width: 30em;
    height: 30em;
    border: thin #c0c0c0 solid;
    padding: 8px;
@@ -7,9 +7,15 @@
    
 } 
 p{
-    background-color: hotpink;
+    margin-left: 20em;
 }
 .two{
     margin-left: 35em;
     margin-top: -32em;
+}
+h1{
+    color:brown;
+}
+.imgone{
+float: right;
 }
