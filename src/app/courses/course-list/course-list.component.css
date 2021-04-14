@@ -1,14 +1,15 @@
-h1{
+/* /* h1{
     color:blue;
     margin-right: 20em;
-}
-.blog-box{
+} */
+.imgone{
     border: thin #C0C0C0 solid;
     padding: 5px;
-    max-width: 180em;
+    max-width: 200em;
 }
 .imgone{
-    height: 40em;
+    height: 28em;
+    width: 28em;
 }
 .imgtwo{
     height: 40em;
@@ -16,4 +17,4 @@ h1{
 .imgthree{
     height: 40em;
 
-}
+} 

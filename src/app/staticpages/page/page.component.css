@@ -1,12 +1,12 @@
- img{
-   width: 30em;
+  img{
+   width: 29em;
    height: 30em;
    border: thin #c0c0c0 solid;
    padding: 8px;
    
    
 } 
-p{
+/* p{
     margin-left: 20em;
 }
 .two{
@@ -18,4 +18,4 @@ h1{
 }
 .imgone{
 float: right;
-}
+} */ 
