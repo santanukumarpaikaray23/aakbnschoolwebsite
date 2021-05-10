@@ -1,0 +1,25 @@
+.blog-box{
+    border: thin #C0C0C0 solid;
+    padding: 5px;
+    max-width: 180em;
+}
+.imgone{
+    height: 40em;
+    border: thin #C0C0C0 solid;
+    padding: 5px;
+    max-width: 180em;
+}
+.imgtwo{
+    height: 40em;
+    border: thin #C0C0C0 solid;
+    padding: 5px;
+    max-width: 180em;
+
+}
+.imgthree{
+    height: 40em;
+    border: thin #C0C0C0 solid;
+    padding: 5px;
+    max-width: 180em;
+
+}
